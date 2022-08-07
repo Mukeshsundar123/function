@@ -1,0 +1,8 @@
+
+func addNumbers(num1: Int, num2: Int) {
+  var sum = num1 + num2
+  print("Sum: ", sum)
+}
+
+
+addNumbers(num1: 5, num2: 89)
